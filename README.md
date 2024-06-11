@@ -19,6 +19,9 @@ I'm thrilled to showcase my latest project – a **Customer Performance Dashboar
 ## Dark Theme Dashboard
 ![image](https://github.com/Shyam0801/Customer-Performance-Dashboard/assets/72892303/40153ea7-8092-4dab-b21b-cc25cf4a4c00)
 
+## Tool used
+- I used Power BI to create the whole dashboard.
+
 ## Acknowledgments
 - The dataset is taken from: [Google Drive Link](https://drive.google.com/file/d/1smKxJxhJmTVl8kj5UmexwRYZPhqInS4V/view)
 - Thanks to Data With Decision for the dataset.
