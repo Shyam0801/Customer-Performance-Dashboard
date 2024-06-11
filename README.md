@@ -21,6 +21,7 @@ I'm thrilled to showcase my latest project – a **Customer Performance Dashboar
 
 ## Tool used
 - I used Power BI to create the whole dashboard.
+- The Dasboard can be Downloaded from here - [Customer Performance Dashboard](https://github.com/Shyam0801/Customer-Performance-Dashboard/blob/main/Customer%20Performance%20Dashboard.pbix)
 
 ## Acknowledgments
 - The dataset is taken from: [Google Drive Link](https://drive.google.com/file/d/1smKxJxhJmTVl8kj5UmexwRYZPhqInS4V/view)
